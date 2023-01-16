@@ -41,8 +41,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/katavnnn/KATA-ddos-panel/
-cd KATA-ddos-panel
+git clone https://github.com/AceeNISM/mars
+cd mars
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -86,6 +86,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-TELE: fb.com/katavn.2006
+TELE: t.me/marssec
 Discord: MARSS#2962
 ```
